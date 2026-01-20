@@ -1,16 +1,23 @@
 # Oi, seja bem-vindo ao meu GitHub!
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center; justify-content: center;">
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/streak?username=Erick22Ribeiro&theme=gruvbox&hide_border=true"
+        height="200"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=Erick22Ribeiro&layout=compact&langs_count=10&card_width=320&theme=gruvbox&hide_border=true"
+        height="200"
+      />
+    </td>
+  </tr>
+</table>
 
-  <!-- Heatmap de streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erick22Ribeiro&theme=gruvbox" />
 
-  <!-- Card de linguagens -->
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Erick22Ribeiro&layout=compact&langs_count=10&card_width=320&theme=gruvbox" />
-  </a>
-
-</div>
 
 
 
