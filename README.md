@@ -4,20 +4,18 @@
   <tr>
     <td align="center">
       <img
-        src="https://github-readme-stats-fast.vercel.app/api/streak?username=Erick22Ribeiro&theme=gruvbox&hide_border=true"
+        src="https://github-readme-stats-fast.vercel.app/api/streak?username=Erick22Ribeiro&theme=onedark&hide_border=true"
         height="200"
       />
     </td>
     <td align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=Erick22Ribeiro&layout=compact&langs_count=10&card_width=320&theme=gruvbox&hide_border=true"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Erick22Ribeiro&theme=onedark"
         height="200"
       />
     </td>
   </tr>
 </table>
-
-
 
 
 
