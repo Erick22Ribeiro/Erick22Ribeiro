@@ -6,8 +6,7 @@
   Hi, I'm Erick Ribeiro
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
    
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Always+learning+new+things;FullStack+developer;Information+systems+student" alt="Typing SVG" /></a>
-</p>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Always+learning+new+things;FullStack+developer;Information+systems+student" alt="Typing SVG" /></a>
 
 </h1>
 
