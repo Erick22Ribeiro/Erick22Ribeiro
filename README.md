@@ -11,67 +11,73 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;AI%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img
-        src="https://github-readme-stats-fast.vercel.app/api/streak?username=Erick22Ribeiro&theme=onedark&hide_border=true"
-        height="200"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Erick22Ribeiro&theme=onedark"
-        height="200"
-      />
-    </td>
-  </tr>
-</table>
+#
 
 <p style="display: inline-block;" align="center">
   <kbd>
-    <kbd>Back-end</kbd>
+    <kbd>Languages</kbd>
+    <br>
+    <sub><i>Programming with purpose</i></sub>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   </kbd>
 
   <kbd>
     <kbd>Front-end</kbd>
     <br>
+    <sub><i>Building intuitive user interfaces</i></sub>
+    <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   </kbd>
 
   <kbd>
-    <kbd>Frameworks & Libraries</kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <sub><i>Building scalable, high-performance services</i></sub>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  </kbd>
+
+  <br>
+
+  <kbd>
+    <kbd>Data & Analytics</kbd>
+    <br>
+    <sub><i>Turning data into insights</i></sub>
+    <br>
+    <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
   </kbd>
 
   <kbd>
-    <kbd>Dados</kbd>
+    <kbd>Databases</kbd>
+    <br>
+    <sub><i>Structuring reliable data</i></sub>
     <br>
     <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   </kbd>
 
   <kbd>
-    <kbd>Outros</kbd>
+    <kbd>Tools</kbd>
+    <br>
+    <sub><i>Building, shipping & maintaining</i></sub>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   </kbd>
 </p>
 
