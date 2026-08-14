@@ -10,11 +10,21 @@
 
 </h1>
 
+<h4>About Me</h4>
+
+<p>
+  I'm an Information Systems undergraduate at <strong>Unilasalle-RJ</strong>, 
+  currently working as a <strong>Full Stack Development Intern</strong> at the 
+  <strong>Attorney General's Office of the State of Rio de Janeiro</strong>.
+</p>
+
+#
+
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Languages</kbd>
-    <br>
-    <sub><i>Programming with purpose</i></sub>
+    <br><br>
+    <span style="font-size: 13px;"><i>Programming with purpose</i></span>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -25,8 +35,8 @@
 
   <kbd>
     <kbd>Front-end</kbd>
-    <br>
-    <sub><i>Building intuitive user interfaces</i></sub>
+    <br><br>
+    <span style="font-size: 13px;"><i>Building intuitive user interfaces</i></span>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -35,8 +45,8 @@
 
   <kbd>
     <kbd>Back-end</kbd>
-    <br>
-    <sub><i>Building scalable, high-performance services</i></sub>
+    <br><br>
+    <span style="font-size: 13px;"><i>Building scalable, high-performance services</i></span>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
@@ -45,11 +55,11 @@
   </kbd>
 
   <br>
-
+  
   <kbd>
     <kbd>Data & Analytics</kbd>
-    <br>
-    <sub><i>Turning data into insights</i></sub>
+    <br><br>
+    <span style="font-size: 13px;"><i>Turning data into insights</i></span>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
@@ -58,8 +68,8 @@
 
   <kbd>
     <kbd>Databases</kbd>
-    <br>
-    <sub><i>Structuring reliable data</i></sub>
+    <br><br>
+    <span style="font-size: 13px;"><i>Structuring reliable data</i></span>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
@@ -69,8 +79,8 @@
 
   <kbd>
     <kbd>Tools</kbd>
-    <br>
-    <sub><i>Building, shipping & maintaining</i></sub>
+    <br><br>
+    <span style="font-size: 13px;"><i>Building, shipping & maintaining</i></span>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
