@@ -23,10 +23,9 @@
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Languages</kbd>
+    <br>
+    <kbd><sub><i>Programming with purpose</i></sub></kbd>
     <br><br>
-    <span style="font-size: 13px;"><i>Programming with purpose</i></span>
-    <br>
-    <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -35,43 +34,39 @@
 
   <kbd>
     <kbd>Front-end</kbd>
+    <br>
+    <kbd><sub><i>Building intuitive user interfaces</i></sub></kbd>
     <br><br>
-    <span style="font-size: 13px;"><i>Building intuitive user interfaces</i></span>
-    <br>
-    <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   </kbd>
 
   <kbd>
     <kbd>Back-end</kbd>
+    <br>
+    <kbd><sub><i>Building scalable, high-performance services</i></sub></kbd>
     <br><br>
-    <span style="font-size: 13px;"><i>Building scalable, high-performance services</i></span>
-    <br>
-    <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   </kbd>
 
   <br>
-  
+
   <kbd>
     <kbd>Data & Analytics</kbd>
+    <br>
+    <kbd><sub><i>Turning data into insights</i></sub></kbd>
     <br><br>
-    <span style="font-size: 13px;"><i>Turning data into insights</i></span>
-    <br>
-    <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
   </kbd>
 
   <kbd>
     <kbd>Databases</kbd>
+    <br>
+    <kbd><sub><i>Structuring reliable data</i></sub></kbd>
     <br><br>
-    <span style="font-size: 13px;"><i>Structuring reliable data</i></span>
-    <br>
-    <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
@@ -79,15 +74,13 @@
 
   <kbd>
     <kbd>Tools</kbd>
+    <br>
+    <kbd><sub><i>Building, shipping & maintaining</i></sub></kbd>
     <br><br>
-    <span style="font-size: 13px;"><i>Building, shipping & maintaining</i></span>
-    <br>
-    <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   </kbd>
 </p>
-
 #
 
 <div align="center">
